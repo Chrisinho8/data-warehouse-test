@@ -9,7 +9,7 @@ A portfolio project showcasing a modern data warehouse built on **Medallion Arch
 - **Analytics & Reporting**: SQL-based reports delivering insights on customer behavior, product performance, and sales trends
 
 ## Tech Stack
-SQL Server, SSMS, Git, DrawIO
+PostgreSQL, pgADMIN4, SSMS, Git, DrawIO
 
 ## Architecture
 | Layer | Purpose |
